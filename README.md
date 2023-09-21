@@ -25,7 +25,7 @@ git clone https://github.com/casonova/Coding-Samurai-Task1.git
 Run the Application: Navigate to the project directory and run the application:
 
 ```bash
-cd to-do-list-application
+cd Coding-Samurai-Task1
 python To_Do_List.py
 
 ```    
