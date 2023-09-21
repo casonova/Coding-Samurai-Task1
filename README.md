@@ -19,7 +19,7 @@ The To-Do List Application is a simple command-line tool built in Python for eff
 Clone the Repository: Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/to-do-list-application.git
+git clone https://github.com/casonova/Coding-Samurai-Task1.git
 
 ```
 Run the Application: Navigate to the project directory and run the application:
