@@ -1,7 +1,7 @@
 
 # To-Do List Application
 
-The To-Do List Application is a simple command-line tool built in Python for efficiently managing tasks. This project helps you practice fundamental programming concepts, including data structures, user input handling, and basic file operations. 
+The To-Do List Application is a simple command-line tool built in Python for efficiently managing tasks. This project helps you practice fundamental programming concepts, including data structures, user input handling, and basic file operations. This a program is a good example for beginner developer.
 
 
 
